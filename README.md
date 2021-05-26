@@ -10,7 +10,7 @@ Based on the analysis, one can tell that the PyBer App has been most successful 
 Furthermore, the analysis show that the between the January and April month, rural areas have the highest amount of business around April. Suburban cities have the highest amount of business in January and February while urban cities have fairly good business throughout the year excpet for the first week of January, which can be assumed to be affected by the holidays. Overall, all cities seen to perform well at the end of Febrary. \
 ![PyBer_fare_summary](https://github.com/juliacho22/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
-##Summary
+## Summary
 Based on the results, the following recommendations can be made: 
 - Decrease the fare rate in rural and suburban areas to increase business and make using PyBer more attractive and affordable 
 - Increase fate rates in urban areas since there is more business, especially during busy season (mid February to April) 
